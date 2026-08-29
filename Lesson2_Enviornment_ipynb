@@ -1,0 +1,66 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOyDBVejij/Lj8V6PJDFkYP",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/somebabyTina/tibame-python-basic-20260829/blob/main/Lesson2_Enviornment_ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 3,
+      "metadata": {
+        "id": "h-_0FuOL1IKo",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "0f2ea594-5bc5-49a7-c37e-7f9a4b391d1a"
+      },
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "0.4857142857142857"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 3
+        }
+      ],
+      "source": [
+        "#bmi: weight(kg)/height(m)^2\n",
+        "85 / 175"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "4Jj5CtAi3nm3"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
